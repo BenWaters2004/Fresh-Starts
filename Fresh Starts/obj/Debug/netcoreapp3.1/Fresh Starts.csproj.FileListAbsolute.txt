@@ -1,0 +1,269 @@
+C:\Users\Ben\comp1004-coursework-cluster-s\Fresh Starts\Fresh Starts\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Ben\comp1004-coursework-cluster-s\Fresh Starts\Fresh Starts\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Ben\comp1004-coursework-cluster-s\Fresh Starts\Fresh Starts\bin\Debug\netcoreapp3.1\Fresh Starts.exe
+C:\Users\Ben\comp1004-coursework-cluster-s\Fresh Starts\Fresh Starts\bin\Debug\netcoreapp3.1\Fresh Starts.deps.json
+C:\Users\Ben\comp1004-coursework-cluster-s\Fresh Starts\Fresh Starts\bin\Debug\netcoreapp3.1\Fresh Starts.runtimeconfig.json
+C:\Users\Ben\comp1004-coursework-cluster-s\Fresh Starts\Fresh Starts\bin\Debug\netcoreapp3.1\Fresh Starts.runtimeconfig.dev.json
+C:\Users\Ben\comp1004-coursework-cluster-s\Fresh Starts\Fresh Starts\bin\Debug\netcoreapp3.1\Fresh Starts.dll
+C:\Users\Ben\comp1004-coursework-cluster-s\Fresh Starts\Fresh Starts\bin\Debug\netcoreapp3.1\Fresh Starts.pdb
+C:\Users\Ben\comp1004-coursework-cluster-s\Fresh Starts\Fresh Starts\bin\Debug\netcoreapp3.1\Fresh Starts.Views.dll
+C:\Users\Ben\comp1004-coursework-cluster-s\Fresh Starts\Fresh Starts\bin\Debug\netcoreapp3.1\Fresh Starts.Views.pdb
+C:\Users\Ben\comp1004-coursework-cluster-s\Fresh Starts\Fresh Starts\obj\Debug\netcoreapp3.1\Fresh Starts.csproj.AssemblyReference.cache
+C:\Users\Ben\comp1004-coursework-cluster-s\Fresh Starts\Fresh Starts\obj\Debug\netcoreapp3.1\Fresh Starts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ben\comp1004-coursework-cluster-s\Fresh Starts\Fresh Starts\obj\Debug\netcoreapp3.1\Fresh Starts.AssemblyInfoInputs.cache
+C:\Users\Ben\comp1004-coursework-cluster-s\Fresh Starts\Fresh Starts\obj\Debug\netcoreapp3.1\Fresh Starts.AssemblyInfo.cs
+C:\Users\Ben\comp1004-coursework-cluster-s\Fresh Starts\Fresh Starts\obj\Debug\netcoreapp3.1\Fresh Starts.csproj.CoreCompileInputs.cache
+C:\Users\Ben\comp1004-coursework-cluster-s\Fresh Starts\Fresh Starts\obj\Debug\netcoreapp3.1\Fresh Starts.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Ben\comp1004-coursework-cluster-s\Fresh Starts\Fresh Starts\obj\Debug\netcoreapp3.1\Fresh Starts.RazorAssemblyInfo.cache
+C:\Users\Ben\comp1004-coursework-cluster-s\Fresh Starts\Fresh Starts\obj\Debug\netcoreapp3.1\Fresh Starts.RazorAssemblyInfo.cs
+C:\Users\Ben\comp1004-coursework-cluster-s\Fresh Starts\Fresh Starts\obj\Debug\netcoreapp3.1\staticwebassets\Fresh Starts.StaticWebAssets.Manifest.cache
+C:\Users\Ben\comp1004-coursework-cluster-s\Fresh Starts\Fresh Starts\obj\Debug\netcoreapp3.1\staticwebassets\Fresh Starts.StaticWebAssets.xml
+C:\Users\Ben\comp1004-coursework-cluster-s\Fresh Starts\Fresh Starts\obj\Debug\netcoreapp3.1\scopedcss\bundle\Fresh Starts.styles.css
+C:\Users\Ben\comp1004-coursework-cluster-s\Fresh Starts\Fresh Starts\obj\Debug\netcoreapp3.1\Fresh Starts.TagHelpers.input.cache
+C:\Users\Ben\comp1004-coursework-cluster-s\Fresh Starts\Fresh Starts\obj\Debug\netcoreapp3.1\Fresh Starts.TagHelpers.output.cache
+C:\Users\Ben\comp1004-coursework-cluster-s\Fresh Starts\Fresh Starts\obj\Debug\netcoreapp3.1\Fresh Starts.RazorCoreGenerate.cache
+C:\Users\Ben\comp1004-coursework-cluster-s\Fresh Starts\Fresh Starts\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\Ben\comp1004-coursework-cluster-s\Fresh Starts\Fresh Starts\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\Users\Ben\comp1004-coursework-cluster-s\Fresh Starts\Fresh Starts\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\Ben\comp1004-coursework-cluster-s\Fresh Starts\Fresh Starts\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\Ben\comp1004-coursework-cluster-s\Fresh Starts\Fresh Starts\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Ben\comp1004-coursework-cluster-s\Fresh Starts\Fresh Starts\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\Ben\comp1004-coursework-cluster-s\Fresh Starts\Fresh Starts\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Ben\comp1004-coursework-cluster-s\Fresh Starts\Fresh Starts\obj\Debug\netcoreapp3.1\Fresh Starts.RazorTargetAssemblyInfo.cache
+C:\Users\Ben\comp1004-coursework-cluster-s\Fresh Starts\Fresh Starts\obj\Debug\netcoreapp3.1\Fresh Starts.RazorTargetAssemblyInfo.cs
+C:\Users\Ben\comp1004-coursework-cluster-s\Fresh Starts\Fresh Starts\obj\Debug\netcoreapp3.1\Fresh Starts.Views.pdb
+C:\Users\Ben\comp1004-coursework-cluster-s\Fresh Starts\Fresh Starts\obj\Debug\netcoreapp3.1\Fresh Starts.dll
+C:\Users\Ben\comp1004-coursework-cluster-s\Fresh Starts\Fresh Starts\obj\Debug\netcoreapp3.1\Fresh Starts.pdb
+C:\Users\Ben\comp1004-coursework-cluster-s\Fresh Starts\Fresh Starts\obj\Debug\netcoreapp3.1\Fresh Starts.genruntimeconfig.cache
+C:\Users\Ben\comp1004-coursework-cluster-s\Fresh Starts\Fresh Starts\obj\Debug\netcoreapp3.1\Fresh Starts.csproj.CopyComplete
+C:\Users\weryan\comp1004-coursework-cluster-s\Fresh Starts\Fresh Starts\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\weryan\comp1004-coursework-cluster-s\Fresh Starts\Fresh Starts\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\weryan\comp1004-coursework-cluster-s\Fresh Starts\Fresh Starts\bin\Debug\netcoreapp3.1\Fresh Starts.exe
+C:\Users\weryan\comp1004-coursework-cluster-s\Fresh Starts\Fresh Starts\bin\Debug\netcoreapp3.1\Fresh Starts.deps.json
+C:\Users\weryan\comp1004-coursework-cluster-s\Fresh Starts\Fresh Starts\bin\Debug\netcoreapp3.1\Fresh Starts.runtimeconfig.json
+C:\Users\weryan\comp1004-coursework-cluster-s\Fresh Starts\Fresh Starts\bin\Debug\netcoreapp3.1\Fresh Starts.runtimeconfig.dev.json
+C:\Users\weryan\comp1004-coursework-cluster-s\Fresh Starts\Fresh Starts\bin\Debug\netcoreapp3.1\Fresh Starts.dll
+C:\Users\weryan\comp1004-coursework-cluster-s\Fresh Starts\Fresh Starts\bin\Debug\netcoreapp3.1\Fresh Starts.pdb
+C:\Users\weryan\comp1004-coursework-cluster-s\Fresh Starts\Fresh Starts\bin\Debug\netcoreapp3.1\Fresh Starts.Views.dll
+C:\Users\weryan\comp1004-coursework-cluster-s\Fresh Starts\Fresh Starts\bin\Debug\netcoreapp3.1\Fresh Starts.Views.pdb
+C:\Users\weryan\comp1004-coursework-cluster-s\Fresh Starts\Fresh Starts\obj\Debug\netcoreapp3.1\Fresh Starts.csproj.AssemblyReference.cache
+C:\Users\weryan\comp1004-coursework-cluster-s\Fresh Starts\Fresh Starts\obj\Debug\netcoreapp3.1\Fresh Starts.AssemblyInfoInputs.cache
+C:\Users\weryan\comp1004-coursework-cluster-s\Fresh Starts\Fresh Starts\obj\Debug\netcoreapp3.1\Fresh Starts.AssemblyInfo.cs
+C:\Users\weryan\comp1004-coursework-cluster-s\Fresh Starts\Fresh Starts\obj\Debug\netcoreapp3.1\Fresh Starts.csproj.CoreCompileInputs.cache
+C:\Users\weryan\comp1004-coursework-cluster-s\Fresh Starts\Fresh Starts\obj\Debug\netcoreapp3.1\Fresh Starts.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\weryan\comp1004-coursework-cluster-s\Fresh Starts\Fresh Starts\obj\Debug\netcoreapp3.1\Fresh Starts.RazorAssemblyInfo.cache
+C:\Users\weryan\comp1004-coursework-cluster-s\Fresh Starts\Fresh Starts\obj\Debug\netcoreapp3.1\Fresh Starts.RazorAssemblyInfo.cs
+C:\Users\weryan\comp1004-coursework-cluster-s\Fresh Starts\Fresh Starts\obj\Debug\netcoreapp3.1\staticwebassets\Fresh Starts.StaticWebAssets.Manifest.cache
+C:\Users\weryan\comp1004-coursework-cluster-s\Fresh Starts\Fresh Starts\obj\Debug\netcoreapp3.1\staticwebassets\Fresh Starts.StaticWebAssets.xml
+C:\Users\weryan\comp1004-coursework-cluster-s\Fresh Starts\Fresh Starts\obj\Debug\netcoreapp3.1\scopedcss\bundle\Fresh Starts.styles.css
+C:\Users\weryan\comp1004-coursework-cluster-s\Fresh Starts\Fresh Starts\obj\Debug\netcoreapp3.1\Fresh Starts.TagHelpers.input.cache
+C:\Users\weryan\comp1004-coursework-cluster-s\Fresh Starts\Fresh Starts\obj\Debug\netcoreapp3.1\Fresh Starts.TagHelpers.output.cache
+C:\Users\weryan\comp1004-coursework-cluster-s\Fresh Starts\Fresh Starts\obj\Debug\netcoreapp3.1\Fresh Starts.RazorCoreGenerate.cache
+C:\Users\weryan\comp1004-coursework-cluster-s\Fresh Starts\Fresh Starts\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\weryan\comp1004-coursework-cluster-s\Fresh Starts\Fresh Starts\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\Users\weryan\comp1004-coursework-cluster-s\Fresh Starts\Fresh Starts\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\weryan\comp1004-coursework-cluster-s\Fresh Starts\Fresh Starts\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\weryan\comp1004-coursework-cluster-s\Fresh Starts\Fresh Starts\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\weryan\comp1004-coursework-cluster-s\Fresh Starts\Fresh Starts\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\weryan\comp1004-coursework-cluster-s\Fresh Starts\Fresh Starts\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\weryan\comp1004-coursework-cluster-s\Fresh Starts\Fresh Starts\obj\Debug\netcoreapp3.1\Fresh Starts.RazorTargetAssemblyInfo.cache
+C:\Users\weryan\comp1004-coursework-cluster-s\Fresh Starts\Fresh Starts\obj\Debug\netcoreapp3.1\Fresh Starts.RazorTargetAssemblyInfo.cs
+C:\Users\weryan\comp1004-coursework-cluster-s\Fresh Starts\Fresh Starts\obj\Debug\netcoreapp3.1\Fresh Starts.Views.pdb
+C:\Users\weryan\comp1004-coursework-cluster-s\Fresh Starts\Fresh Starts\obj\Debug\netcoreapp3.1\Fresh Starts.dll
+C:\Users\weryan\comp1004-coursework-cluster-s\Fresh Starts\Fresh Starts\obj\Debug\netcoreapp3.1\Fresh Starts.pdb
+C:\Users\weryan\comp1004-coursework-cluster-s\Fresh Starts\Fresh Starts\obj\Debug\netcoreapp3.1\Fresh Starts.genruntimeconfig.cache
+C:\Users\weryan\comp1004-coursework-cluster-s\Fresh Starts\Fresh Starts\obj\Debug\netcoreapp3.1\Fresh Starts.csproj.CopyComplete
+C:\Comp1004 Fresh Starts Official\comp1004-coursework-cluster-s\Fresh Starts\Fresh Starts\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Comp1004 Fresh Starts Official\comp1004-coursework-cluster-s\Fresh Starts\Fresh Starts\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Comp1004 Fresh Starts Official\comp1004-coursework-cluster-s\Fresh Starts\Fresh Starts\bin\Debug\netcoreapp3.1\Fresh Starts.StaticWebAssets.xml
+C:\Comp1004 Fresh Starts Official\comp1004-coursework-cluster-s\Fresh Starts\Fresh Starts\bin\Debug\netcoreapp3.1\Fresh Starts.exe
+C:\Comp1004 Fresh Starts Official\comp1004-coursework-cluster-s\Fresh Starts\Fresh Starts\bin\Debug\netcoreapp3.1\Fresh Starts.deps.json
+C:\Comp1004 Fresh Starts Official\comp1004-coursework-cluster-s\Fresh Starts\Fresh Starts\bin\Debug\netcoreapp3.1\Fresh Starts.runtimeconfig.json
+C:\Comp1004 Fresh Starts Official\comp1004-coursework-cluster-s\Fresh Starts\Fresh Starts\bin\Debug\netcoreapp3.1\Fresh Starts.runtimeconfig.dev.json
+C:\Comp1004 Fresh Starts Official\comp1004-coursework-cluster-s\Fresh Starts\Fresh Starts\bin\Debug\netcoreapp3.1\Fresh Starts.dll
+C:\Comp1004 Fresh Starts Official\comp1004-coursework-cluster-s\Fresh Starts\Fresh Starts\bin\Debug\netcoreapp3.1\Fresh Starts.pdb
+C:\Comp1004 Fresh Starts Official\comp1004-coursework-cluster-s\Fresh Starts\Fresh Starts\bin\Debug\netcoreapp3.1\Fresh Starts.Views.dll
+C:\Comp1004 Fresh Starts Official\comp1004-coursework-cluster-s\Fresh Starts\Fresh Starts\bin\Debug\netcoreapp3.1\Fresh Starts.Views.pdb
+C:\Comp1004 Fresh Starts Official\comp1004-coursework-cluster-s\Fresh Starts\Fresh Starts\obj\Debug\netcoreapp3.1\Fresh Starts.csproj.AssemblyReference.cache
+C:\Comp1004 Fresh Starts Official\comp1004-coursework-cluster-s\Fresh Starts\Fresh Starts\obj\Debug\netcoreapp3.1\Fresh Starts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Comp1004 Fresh Starts Official\comp1004-coursework-cluster-s\Fresh Starts\Fresh Starts\obj\Debug\netcoreapp3.1\Fresh Starts.AssemblyInfoInputs.cache
+C:\Comp1004 Fresh Starts Official\comp1004-coursework-cluster-s\Fresh Starts\Fresh Starts\obj\Debug\netcoreapp3.1\Fresh Starts.AssemblyInfo.cs
+C:\Comp1004 Fresh Starts Official\comp1004-coursework-cluster-s\Fresh Starts\Fresh Starts\obj\Debug\netcoreapp3.1\Fresh Starts.csproj.CoreCompileInputs.cache
+C:\Comp1004 Fresh Starts Official\comp1004-coursework-cluster-s\Fresh Starts\Fresh Starts\obj\Debug\netcoreapp3.1\Fresh Starts.MvcApplicationPartsAssemblyInfo.cache
+C:\Comp1004 Fresh Starts Official\comp1004-coursework-cluster-s\Fresh Starts\Fresh Starts\obj\Debug\netcoreapp3.1\Fresh Starts.RazorAssemblyInfo.cache
+C:\Comp1004 Fresh Starts Official\comp1004-coursework-cluster-s\Fresh Starts\Fresh Starts\obj\Debug\netcoreapp3.1\Fresh Starts.RazorAssemblyInfo.cs
+C:\Comp1004 Fresh Starts Official\comp1004-coursework-cluster-s\Fresh Starts\Fresh Starts\obj\Debug\netcoreapp3.1\staticwebassets\Fresh Starts.StaticWebAssets.Manifest.cache
+C:\Comp1004 Fresh Starts Official\comp1004-coursework-cluster-s\Fresh Starts\Fresh Starts\obj\Debug\netcoreapp3.1\staticwebassets\Fresh Starts.StaticWebAssets.Pack.cache
+C:\Comp1004 Fresh Starts Official\comp1004-coursework-cluster-s\Fresh Starts\Fresh Starts\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.Fresh Starts.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Comp1004 Fresh Starts Official\comp1004-coursework-cluster-s\Fresh Starts\Fresh Starts\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.Fresh Starts.props
+C:\Comp1004 Fresh Starts Official\comp1004-coursework-cluster-s\Fresh Starts\Fresh Starts\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.Fresh Starts.props
+C:\Comp1004 Fresh Starts Official\comp1004-coursework-cluster-s\Fresh Starts\Fresh Starts\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.Fresh Starts.props
+C:\Comp1004 Fresh Starts Official\comp1004-coursework-cluster-s\Fresh Starts\Fresh Starts\obj\Debug\netcoreapp3.1\Fresh Starts.TagHelpers.input.cache
+C:\Comp1004 Fresh Starts Official\comp1004-coursework-cluster-s\Fresh Starts\Fresh Starts\obj\Debug\netcoreapp3.1\Fresh Starts.TagHelpers.output.cache
+C:\Comp1004 Fresh Starts Official\comp1004-coursework-cluster-s\Fresh Starts\Fresh Starts\obj\Debug\netcoreapp3.1\Fresh Starts.RazorCoreGenerate.cache
+C:\Comp1004 Fresh Starts Official\comp1004-coursework-cluster-s\Fresh Starts\Fresh Starts\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Comp1004 Fresh Starts Official\comp1004-coursework-cluster-s\Fresh Starts\Fresh Starts\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\Comp1004 Fresh Starts Official\comp1004-coursework-cluster-s\Fresh Starts\Fresh Starts\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\Comp1004 Fresh Starts Official\comp1004-coursework-cluster-s\Fresh Starts\Fresh Starts\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Comp1004 Fresh Starts Official\comp1004-coursework-cluster-s\Fresh Starts\Fresh Starts\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Comp1004 Fresh Starts Official\comp1004-coursework-cluster-s\Fresh Starts\Fresh Starts\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Comp1004 Fresh Starts Official\comp1004-coursework-cluster-s\Fresh Starts\Fresh Starts\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Comp1004 Fresh Starts Official\comp1004-coursework-cluster-s\Fresh Starts\Fresh Starts\obj\Debug\netcoreapp3.1\Fresh Starts.RazorTargetAssemblyInfo.cache
+C:\Comp1004 Fresh Starts Official\comp1004-coursework-cluster-s\Fresh Starts\Fresh Starts\obj\Debug\netcoreapp3.1\Fresh Starts.RazorTargetAssemblyInfo.cs
+C:\Comp1004 Fresh Starts Official\comp1004-coursework-cluster-s\Fresh Starts\Fresh Starts\obj\Debug\netcoreapp3.1\Fresh Starts.Views.pdb
+C:\Comp1004 Fresh Starts Official\comp1004-coursework-cluster-s\Fresh Starts\Fresh Starts\obj\Debug\netcoreapp3.1\Fresh Starts.dll
+C:\Comp1004 Fresh Starts Official\comp1004-coursework-cluster-s\Fresh Starts\Fresh Starts\obj\Debug\netcoreapp3.1\Fresh Starts.pdb
+C:\Comp1004 Fresh Starts Official\comp1004-coursework-cluster-s\Fresh Starts\Fresh Starts\obj\Debug\netcoreapp3.1\Fresh Starts.genruntimeconfig.cache
+C:\Comp1004 Fresh Starts Official\comp1004-coursework-cluster-s\Fresh Starts\Fresh Starts\obj\Debug\netcoreapp3.1\Fresh Starts.csproj.CopyComplete
+C:\Users\bwaters2\comp1004-coursework-cluster-s\Fresh Starts\Fresh Starts\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\bwaters2\comp1004-coursework-cluster-s\Fresh Starts\Fresh Starts\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\bwaters2\comp1004-coursework-cluster-s\Fresh Starts\Fresh Starts\bin\Debug\netcoreapp3.1\Fresh Starts.exe
+C:\Users\bwaters2\comp1004-coursework-cluster-s\Fresh Starts\Fresh Starts\bin\Debug\netcoreapp3.1\Fresh Starts.deps.json
+C:\Users\bwaters2\comp1004-coursework-cluster-s\Fresh Starts\Fresh Starts\bin\Debug\netcoreapp3.1\Fresh Starts.runtimeconfig.json
+C:\Users\bwaters2\comp1004-coursework-cluster-s\Fresh Starts\Fresh Starts\bin\Debug\netcoreapp3.1\Fresh Starts.runtimeconfig.dev.json
+C:\Users\bwaters2\comp1004-coursework-cluster-s\Fresh Starts\Fresh Starts\bin\Debug\netcoreapp3.1\Fresh Starts.dll
+C:\Users\bwaters2\comp1004-coursework-cluster-s\Fresh Starts\Fresh Starts\bin\Debug\netcoreapp3.1\Fresh Starts.pdb
+C:\Users\bwaters2\comp1004-coursework-cluster-s\Fresh Starts\Fresh Starts\bin\Debug\netcoreapp3.1\Fresh Starts.Views.dll
+C:\Users\bwaters2\comp1004-coursework-cluster-s\Fresh Starts\Fresh Starts\bin\Debug\netcoreapp3.1\Fresh Starts.Views.pdb
+C:\Users\bwaters2\comp1004-coursework-cluster-s\Fresh Starts\Fresh Starts\obj\Debug\netcoreapp3.1\Fresh Starts.csproj.AssemblyReference.cache
+C:\Users\bwaters2\comp1004-coursework-cluster-s\Fresh Starts\Fresh Starts\obj\Debug\netcoreapp3.1\Fresh Starts.AssemblyInfoInputs.cache
+C:\Users\bwaters2\comp1004-coursework-cluster-s\Fresh Starts\Fresh Starts\obj\Debug\netcoreapp3.1\Fresh Starts.AssemblyInfo.cs
+C:\Users\bwaters2\comp1004-coursework-cluster-s\Fresh Starts\Fresh Starts\obj\Debug\netcoreapp3.1\Fresh Starts.csproj.CoreCompileInputs.cache
+C:\Users\bwaters2\comp1004-coursework-cluster-s\Fresh Starts\Fresh Starts\obj\Debug\netcoreapp3.1\Fresh Starts.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\bwaters2\comp1004-coursework-cluster-s\Fresh Starts\Fresh Starts\obj\Debug\netcoreapp3.1\Fresh Starts.RazorAssemblyInfo.cache
+C:\Users\bwaters2\comp1004-coursework-cluster-s\Fresh Starts\Fresh Starts\obj\Debug\netcoreapp3.1\Fresh Starts.RazorAssemblyInfo.cs
+C:\Users\bwaters2\comp1004-coursework-cluster-s\Fresh Starts\Fresh Starts\obj\Debug\netcoreapp3.1\staticwebassets\Fresh Starts.StaticWebAssets.Manifest.cache
+C:\Users\bwaters2\comp1004-coursework-cluster-s\Fresh Starts\Fresh Starts\obj\Debug\netcoreapp3.1\staticwebassets\Fresh Starts.StaticWebAssets.xml
+C:\Users\bwaters2\comp1004-coursework-cluster-s\Fresh Starts\Fresh Starts\obj\Debug\netcoreapp3.1\scopedcss\bundle\Fresh Starts.styles.css
+C:\Users\bwaters2\comp1004-coursework-cluster-s\Fresh Starts\Fresh Starts\obj\Debug\netcoreapp3.1\Fresh Starts.TagHelpers.input.cache
+C:\Users\bwaters2\comp1004-coursework-cluster-s\Fresh Starts\Fresh Starts\obj\Debug\netcoreapp3.1\Fresh Starts.TagHelpers.output.cache
+C:\Users\bwaters2\comp1004-coursework-cluster-s\Fresh Starts\Fresh Starts\obj\Debug\netcoreapp3.1\Fresh Starts.RazorCoreGenerate.cache
+C:\Users\bwaters2\comp1004-coursework-cluster-s\Fresh Starts\Fresh Starts\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\bwaters2\comp1004-coursework-cluster-s\Fresh Starts\Fresh Starts\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\Users\bwaters2\comp1004-coursework-cluster-s\Fresh Starts\Fresh Starts\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\bwaters2\comp1004-coursework-cluster-s\Fresh Starts\Fresh Starts\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\bwaters2\comp1004-coursework-cluster-s\Fresh Starts\Fresh Starts\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\bwaters2\comp1004-coursework-cluster-s\Fresh Starts\Fresh Starts\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\bwaters2\comp1004-coursework-cluster-s\Fresh Starts\Fresh Starts\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\bwaters2\comp1004-coursework-cluster-s\Fresh Starts\Fresh Starts\obj\Debug\netcoreapp3.1\Fresh Starts.RazorTargetAssemblyInfo.cache
+C:\Users\bwaters2\comp1004-coursework-cluster-s\Fresh Starts\Fresh Starts\obj\Debug\netcoreapp3.1\Fresh Starts.RazorTargetAssemblyInfo.cs
+C:\Users\bwaters2\comp1004-coursework-cluster-s\Fresh Starts\Fresh Starts\obj\Debug\netcoreapp3.1\Fresh Starts.Views.pdb
+C:\Users\bwaters2\comp1004-coursework-cluster-s\Fresh Starts\Fresh Starts\obj\Debug\netcoreapp3.1\Fresh Starts.dll
+C:\Users\bwaters2\comp1004-coursework-cluster-s\Fresh Starts\Fresh Starts\obj\Debug\netcoreapp3.1\Fresh Starts.pdb
+C:\Users\bwaters2\comp1004-coursework-cluster-s\Fresh Starts\Fresh Starts\obj\Debug\netcoreapp3.1\Fresh Starts.genruntimeconfig.cache
+C:\Users\bwaters2\comp1004-coursework-cluster-s\Fresh Starts\Fresh Starts\obj\Debug\netcoreapp3.1\Fresh Starts.csproj.CopyComplete
+C:\Users\willi\comp1004-coursework-cluster-s\Fresh Starts\Fresh Starts\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\willi\comp1004-coursework-cluster-s\Fresh Starts\Fresh Starts\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\willi\comp1004-coursework-cluster-s\Fresh Starts\Fresh Starts\bin\Debug\netcoreapp3.1\Fresh Starts.exe
+C:\Users\willi\comp1004-coursework-cluster-s\Fresh Starts\Fresh Starts\bin\Debug\netcoreapp3.1\Fresh Starts.deps.json
+C:\Users\willi\comp1004-coursework-cluster-s\Fresh Starts\Fresh Starts\bin\Debug\netcoreapp3.1\Fresh Starts.runtimeconfig.json
+C:\Users\willi\comp1004-coursework-cluster-s\Fresh Starts\Fresh Starts\bin\Debug\netcoreapp3.1\Fresh Starts.runtimeconfig.dev.json
+C:\Users\willi\comp1004-coursework-cluster-s\Fresh Starts\Fresh Starts\bin\Debug\netcoreapp3.1\Fresh Starts.dll
+C:\Users\willi\comp1004-coursework-cluster-s\Fresh Starts\Fresh Starts\bin\Debug\netcoreapp3.1\Fresh Starts.pdb
+C:\Users\willi\comp1004-coursework-cluster-s\Fresh Starts\Fresh Starts\bin\Debug\netcoreapp3.1\Fresh Starts.Views.dll
+C:\Users\willi\comp1004-coursework-cluster-s\Fresh Starts\Fresh Starts\bin\Debug\netcoreapp3.1\Fresh Starts.Views.pdb
+C:\Users\willi\comp1004-coursework-cluster-s\Fresh Starts\Fresh Starts\obj\Debug\netcoreapp3.1\Fresh Starts.csprojAssemblyReference.cache
+C:\Users\willi\comp1004-coursework-cluster-s\Fresh Starts\Fresh Starts\obj\Debug\netcoreapp3.1\Fresh Starts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\willi\comp1004-coursework-cluster-s\Fresh Starts\Fresh Starts\obj\Debug\netcoreapp3.1\Fresh Starts.AssemblyInfoInputs.cache
+C:\Users\willi\comp1004-coursework-cluster-s\Fresh Starts\Fresh Starts\obj\Debug\netcoreapp3.1\Fresh Starts.AssemblyInfo.cs
+C:\Users\willi\comp1004-coursework-cluster-s\Fresh Starts\Fresh Starts\obj\Debug\netcoreapp3.1\Fresh Starts.csproj.CoreCompileInputs.cache
+C:\Users\willi\comp1004-coursework-cluster-s\Fresh Starts\Fresh Starts\obj\Debug\netcoreapp3.1\Fresh Starts.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\willi\comp1004-coursework-cluster-s\Fresh Starts\Fresh Starts\obj\Debug\netcoreapp3.1\Fresh Starts.RazorAssemblyInfo.cache
+C:\Users\willi\comp1004-coursework-cluster-s\Fresh Starts\Fresh Starts\obj\Debug\netcoreapp3.1\Fresh Starts.RazorAssemblyInfo.cs
+C:\Users\willi\comp1004-coursework-cluster-s\Fresh Starts\Fresh Starts\obj\Debug\netcoreapp3.1\staticwebassets\Fresh Starts.StaticWebAssets.Manifest.cache
+C:\Users\willi\comp1004-coursework-cluster-s\Fresh Starts\Fresh Starts\obj\Debug\netcoreapp3.1\staticwebassets\Fresh Starts.StaticWebAssets.xml
+C:\Users\willi\comp1004-coursework-cluster-s\Fresh Starts\Fresh Starts\obj\Debug\netcoreapp3.1\scopedcss\bundle\Fresh Starts.styles.css
+C:\Users\willi\comp1004-coursework-cluster-s\Fresh Starts\Fresh Starts\obj\Debug\netcoreapp3.1\Fresh Starts.TagHelpers.input.cache
+C:\Users\willi\comp1004-coursework-cluster-s\Fresh Starts\Fresh Starts\obj\Debug\netcoreapp3.1\Fresh Starts.TagHelpers.output.cache
+C:\Users\willi\comp1004-coursework-cluster-s\Fresh Starts\Fresh Starts\obj\Debug\netcoreapp3.1\Fresh Starts.RazorCoreGenerate.cache
+C:\Users\willi\comp1004-coursework-cluster-s\Fresh Starts\Fresh Starts\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\willi\comp1004-coursework-cluster-s\Fresh Starts\Fresh Starts\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\Users\willi\comp1004-coursework-cluster-s\Fresh Starts\Fresh Starts\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\willi\comp1004-coursework-cluster-s\Fresh Starts\Fresh Starts\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\willi\comp1004-coursework-cluster-s\Fresh Starts\Fresh Starts\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\willi\comp1004-coursework-cluster-s\Fresh Starts\Fresh Starts\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\willi\comp1004-coursework-cluster-s\Fresh Starts\Fresh Starts\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\willi\comp1004-coursework-cluster-s\Fresh Starts\Fresh Starts\obj\Debug\netcoreapp3.1\Fresh Starts.RazorTargetAssemblyInfo.cache
+C:\Users\willi\comp1004-coursework-cluster-s\Fresh Starts\Fresh Starts\obj\Debug\netcoreapp3.1\Fresh Starts.RazorTargetAssemblyInfo.cs
+C:\Users\willi\comp1004-coursework-cluster-s\Fresh Starts\Fresh Starts\obj\Debug\netcoreapp3.1\Fresh Starts.Views.pdb
+C:\Users\willi\comp1004-coursework-cluster-s\Fresh Starts\Fresh Starts\obj\Debug\netcoreapp3.1\Fresh Starts.dll
+C:\Users\willi\comp1004-coursework-cluster-s\Fresh Starts\Fresh Starts\obj\Debug\netcoreapp3.1\Fresh Starts.pdb
+C:\Users\willi\comp1004-coursework-cluster-s\Fresh Starts\Fresh Starts\obj\Debug\netcoreapp3.1\Fresh Starts.genruntimeconfig.cache
+C:\Users\willi\comp1004-coursework-cluster-s\Fresh Starts\Fresh Starts\obj\Debug\netcoreapp3.1\Fresh Starts.csproj.CopyComplete
+C:\Users\weryan\comp1004-coursework-cluster-s\Fresh Starts\Fresh Starts\obj\Debug\netcoreapp3.1\Fresh Starts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\benwa\comp1004-coursework-cluster-s\Fresh Starts\Fresh Starts\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\benwa\comp1004-coursework-cluster-s\Fresh Starts\Fresh Starts\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\benwa\comp1004-coursework-cluster-s\Fresh Starts\Fresh Starts\bin\Debug\netcoreapp3.1\Fresh Starts.exe
+C:\Users\benwa\comp1004-coursework-cluster-s\Fresh Starts\Fresh Starts\bin\Debug\netcoreapp3.1\Fresh Starts.deps.json
+C:\Users\benwa\comp1004-coursework-cluster-s\Fresh Starts\Fresh Starts\bin\Debug\netcoreapp3.1\Fresh Starts.runtimeconfig.json
+C:\Users\benwa\comp1004-coursework-cluster-s\Fresh Starts\Fresh Starts\bin\Debug\netcoreapp3.1\Fresh Starts.runtimeconfig.dev.json
+C:\Users\benwa\comp1004-coursework-cluster-s\Fresh Starts\Fresh Starts\bin\Debug\netcoreapp3.1\Fresh Starts.dll
+C:\Users\benwa\comp1004-coursework-cluster-s\Fresh Starts\Fresh Starts\bin\Debug\netcoreapp3.1\Fresh Starts.pdb
+C:\Users\benwa\comp1004-coursework-cluster-s\Fresh Starts\Fresh Starts\bin\Debug\netcoreapp3.1\Fresh Starts.Views.dll
+C:\Users\benwa\comp1004-coursework-cluster-s\Fresh Starts\Fresh Starts\bin\Debug\netcoreapp3.1\Fresh Starts.Views.pdb
+C:\Users\benwa\comp1004-coursework-cluster-s\Fresh Starts\Fresh Starts\obj\Debug\netcoreapp3.1\Fresh Starts.csproj.AssemblyReference.cache
+C:\Users\benwa\comp1004-coursework-cluster-s\Fresh Starts\Fresh Starts\obj\Debug\netcoreapp3.1\Fresh Starts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\benwa\comp1004-coursework-cluster-s\Fresh Starts\Fresh Starts\obj\Debug\netcoreapp3.1\Fresh Starts.AssemblyInfoInputs.cache
+C:\Users\benwa\comp1004-coursework-cluster-s\Fresh Starts\Fresh Starts\obj\Debug\netcoreapp3.1\Fresh Starts.AssemblyInfo.cs
+C:\Users\benwa\comp1004-coursework-cluster-s\Fresh Starts\Fresh Starts\obj\Debug\netcoreapp3.1\Fresh Starts.csproj.CoreCompileInputs.cache
+C:\Users\benwa\comp1004-coursework-cluster-s\Fresh Starts\Fresh Starts\obj\Debug\netcoreapp3.1\Fresh Starts.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\benwa\comp1004-coursework-cluster-s\Fresh Starts\Fresh Starts\obj\Debug\netcoreapp3.1\Fresh Starts.RazorAssemblyInfo.cache
+C:\Users\benwa\comp1004-coursework-cluster-s\Fresh Starts\Fresh Starts\obj\Debug\netcoreapp3.1\Fresh Starts.RazorAssemblyInfo.cs
+C:\Users\benwa\comp1004-coursework-cluster-s\Fresh Starts\Fresh Starts\obj\Debug\netcoreapp3.1\staticwebassets\Fresh Starts.StaticWebAssets.Manifest.cache
+C:\Users\benwa\comp1004-coursework-cluster-s\Fresh Starts\Fresh Starts\obj\Debug\netcoreapp3.1\staticwebassets\Fresh Starts.StaticWebAssets.xml
+C:\Users\benwa\comp1004-coursework-cluster-s\Fresh Starts\Fresh Starts\obj\Debug\netcoreapp3.1\scopedcss\bundle\Fresh Starts.styles.css
+C:\Users\benwa\comp1004-coursework-cluster-s\Fresh Starts\Fresh Starts\obj\Debug\netcoreapp3.1\Fresh Starts.TagHelpers.input.cache
+C:\Users\benwa\comp1004-coursework-cluster-s\Fresh Starts\Fresh Starts\obj\Debug\netcoreapp3.1\Fresh Starts.TagHelpers.output.cache
+C:\Users\benwa\comp1004-coursework-cluster-s\Fresh Starts\Fresh Starts\obj\Debug\netcoreapp3.1\Fresh Starts.RazorCoreGenerate.cache
+C:\Users\benwa\comp1004-coursework-cluster-s\Fresh Starts\Fresh Starts\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\benwa\comp1004-coursework-cluster-s\Fresh Starts\Fresh Starts\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\Users\benwa\comp1004-coursework-cluster-s\Fresh Starts\Fresh Starts\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\benwa\comp1004-coursework-cluster-s\Fresh Starts\Fresh Starts\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\benwa\comp1004-coursework-cluster-s\Fresh Starts\Fresh Starts\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\benwa\comp1004-coursework-cluster-s\Fresh Starts\Fresh Starts\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\benwa\comp1004-coursework-cluster-s\Fresh Starts\Fresh Starts\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\benwa\comp1004-coursework-cluster-s\Fresh Starts\Fresh Starts\obj\Debug\netcoreapp3.1\Fresh Starts.RazorTargetAssemblyInfo.cache
+C:\Users\benwa\comp1004-coursework-cluster-s\Fresh Starts\Fresh Starts\obj\Debug\netcoreapp3.1\Fresh Starts.RazorTargetAssemblyInfo.cs
+C:\Users\benwa\comp1004-coursework-cluster-s\Fresh Starts\Fresh Starts\obj\Debug\netcoreapp3.1\Fresh Starts.Views.pdb
+C:\Users\benwa\comp1004-coursework-cluster-s\Fresh Starts\Fresh Starts\obj\Debug\netcoreapp3.1\Fresh Starts.dll
+C:\Users\benwa\comp1004-coursework-cluster-s\Fresh Starts\Fresh Starts\obj\Debug\netcoreapp3.1\Fresh Starts.pdb
+C:\Users\benwa\comp1004-coursework-cluster-s\Fresh Starts\Fresh Starts\obj\Debug\netcoreapp3.1\Fresh Starts.genruntimeconfig.cache
+C:\Users\benwa\comp1004-coursework-cluster-s\Fresh Starts\Fresh Starts\obj\Debug\netcoreapp3.1\Fresh Starts.csproj.CopyComplete
+C:\Users\benwa\Fresh Starts - mine\Fresh Starts\Fresh Starts\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\benwa\Fresh Starts - mine\Fresh Starts\Fresh Starts\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\benwa\Fresh Starts - mine\Fresh Starts\Fresh Starts\bin\Debug\netcoreapp3.1\Fresh Starts.exe
+C:\Users\benwa\Fresh Starts - mine\Fresh Starts\Fresh Starts\bin\Debug\netcoreapp3.1\Fresh Starts.deps.json
+C:\Users\benwa\Fresh Starts - mine\Fresh Starts\Fresh Starts\bin\Debug\netcoreapp3.1\Fresh Starts.runtimeconfig.json
+C:\Users\benwa\Fresh Starts - mine\Fresh Starts\Fresh Starts\bin\Debug\netcoreapp3.1\Fresh Starts.runtimeconfig.dev.json
+C:\Users\benwa\Fresh Starts - mine\Fresh Starts\Fresh Starts\bin\Debug\netcoreapp3.1\Fresh Starts.dll
+C:\Users\benwa\Fresh Starts - mine\Fresh Starts\Fresh Starts\bin\Debug\netcoreapp3.1\Fresh Starts.pdb
+C:\Users\benwa\Fresh Starts - mine\Fresh Starts\Fresh Starts\bin\Debug\netcoreapp3.1\Fresh Starts.Views.dll
+C:\Users\benwa\Fresh Starts - mine\Fresh Starts\Fresh Starts\bin\Debug\netcoreapp3.1\Fresh Starts.Views.pdb
+C:\Users\benwa\Fresh Starts - mine\Fresh Starts\Fresh Starts\obj\Debug\netcoreapp3.1\Fresh Starts.csproj.AssemblyReference.cache
+C:\Users\benwa\Fresh Starts - mine\Fresh Starts\Fresh Starts\obj\Debug\netcoreapp3.1\Fresh Starts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\benwa\Fresh Starts - mine\Fresh Starts\Fresh Starts\obj\Debug\netcoreapp3.1\Fresh Starts.AssemblyInfoInputs.cache
+C:\Users\benwa\Fresh Starts - mine\Fresh Starts\Fresh Starts\obj\Debug\netcoreapp3.1\Fresh Starts.AssemblyInfo.cs
+C:\Users\benwa\Fresh Starts - mine\Fresh Starts\Fresh Starts\obj\Debug\netcoreapp3.1\Fresh Starts.csproj.CoreCompileInputs.cache
+C:\Users\benwa\Fresh Starts - mine\Fresh Starts\Fresh Starts\obj\Debug\netcoreapp3.1\Fresh Starts.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\benwa\Fresh Starts - mine\Fresh Starts\Fresh Starts\obj\Debug\netcoreapp3.1\Fresh Starts.RazorAssemblyInfo.cache
+C:\Users\benwa\Fresh Starts - mine\Fresh Starts\Fresh Starts\obj\Debug\netcoreapp3.1\Fresh Starts.RazorAssemblyInfo.cs
+C:\Users\benwa\Fresh Starts - mine\Fresh Starts\Fresh Starts\obj\Debug\netcoreapp3.1\staticwebassets\Fresh Starts.StaticWebAssets.Manifest.cache
+C:\Users\benwa\Fresh Starts - mine\Fresh Starts\Fresh Starts\obj\Debug\netcoreapp3.1\staticwebassets\Fresh Starts.StaticWebAssets.xml
+C:\Users\benwa\Fresh Starts - mine\Fresh Starts\Fresh Starts\obj\Debug\netcoreapp3.1\scopedcss\bundle\Fresh Starts.styles.css
+C:\Users\benwa\Fresh Starts - mine\Fresh Starts\Fresh Starts\obj\Debug\netcoreapp3.1\Fresh Starts.TagHelpers.input.cache
+C:\Users\benwa\Fresh Starts - mine\Fresh Starts\Fresh Starts\obj\Debug\netcoreapp3.1\Fresh Starts.TagHelpers.output.cache
+C:\Users\benwa\Fresh Starts - mine\Fresh Starts\Fresh Starts\obj\Debug\netcoreapp3.1\Fresh Starts.RazorCoreGenerate.cache
+C:\Users\benwa\Fresh Starts - mine\Fresh Starts\Fresh Starts\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\benwa\Fresh Starts - mine\Fresh Starts\Fresh Starts\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\Users\benwa\Fresh Starts - mine\Fresh Starts\Fresh Starts\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\benwa\Fresh Starts - mine\Fresh Starts\Fresh Starts\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\benwa\Fresh Starts - mine\Fresh Starts\Fresh Starts\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\benwa\Fresh Starts - mine\Fresh Starts\Fresh Starts\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\benwa\Fresh Starts - mine\Fresh Starts\Fresh Starts\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\benwa\Fresh Starts - mine\Fresh Starts\Fresh Starts\obj\Debug\netcoreapp3.1\Fresh Starts.RazorTargetAssemblyInfo.cache
+C:\Users\benwa\Fresh Starts - mine\Fresh Starts\Fresh Starts\obj\Debug\netcoreapp3.1\Fresh Starts.RazorTargetAssemblyInfo.cs
+C:\Users\benwa\Fresh Starts - mine\Fresh Starts\Fresh Starts\obj\Debug\netcoreapp3.1\Fresh Starts.Views.pdb
+C:\Users\benwa\Fresh Starts - mine\Fresh Starts\Fresh Starts\obj\Debug\netcoreapp3.1\Fresh Starts.dll
+C:\Users\benwa\Fresh Starts - mine\Fresh Starts\Fresh Starts\obj\Debug\netcoreapp3.1\Fresh Starts.pdb
+C:\Users\benwa\Fresh Starts - mine\Fresh Starts\Fresh Starts\obj\Debug\netcoreapp3.1\Fresh Starts.genruntimeconfig.cache
+C:\Users\benwa\Fresh Starts - mine\Fresh Starts\Fresh Starts\obj\Debug\netcoreapp3.1\Fresh Starts.csproj.CopyComplete
