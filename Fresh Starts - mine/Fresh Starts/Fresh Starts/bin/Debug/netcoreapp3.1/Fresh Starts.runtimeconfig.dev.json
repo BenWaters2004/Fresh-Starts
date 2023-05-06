@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\benwa\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\benwa\\.nuget\\packages"
+    ]
+  }
+}
